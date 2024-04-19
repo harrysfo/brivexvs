@@ -1,1 +1,1 @@
-[![Views](https://github-readme-stats.vercel.app/api?username=brivexvs)](https://github.com/brivexvs)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=brivexvs&label=Visotors%3A&countColor=%23263759)
