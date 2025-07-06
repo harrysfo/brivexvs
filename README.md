@@ -1,9 +1,9 @@
 # 💫 About Me:
-16 Year old Secondary School student based in the UK<br>Interested in Machine Learning & Malicious Software<br><br>Owner of hCaptcha Models<br>https://t.me/hcaptchamodels
+16 Year old college student based in the UK<br>Interested in AI, Malware & Policing<br>
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/voltguard) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@harry.sfo) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](<https://discord.com/users/1205223430048321557>) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@harry.sfo) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
