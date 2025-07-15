@@ -1,5 +1,5 @@
 # 💫 About Me:
-16 Year old College Student studying Level 3 Policing<br><br>- Qualified Drone Pilot<br>- Head Cadet @ Essex Volunteer Police Cadets<br>- Reverse Engineer<br>- Former Malware Engineer<br>-
+16 Year old College Student studying Level 3 Policing<br><br>- Qualified Drone Pilot<br>- Head Cadet @ Essex Volunteer Police Cadets<br>- Reverse Engineer<br>- Former Malware Engineer<br>- skid
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](<https://discord.com/users/1205223430048321557>) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@harry.sfo) 
